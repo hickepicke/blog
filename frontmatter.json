@@ -48,18 +48,8 @@
   ],
   "frontMatter.content.pageFolders": [
     {
-      "path": "[[workspace]]/content/sv",
-      "title": "sv"
-    },
-    {
-      "path": "[[workspace]]/content/sv/posts"
-    },
-    {
-      "path": "[[workspace]]/content/en/posts"
-    },
-    {
-      "path": "[[workspace]]/content/en"
+      "path": "[[workspace]]/content/posts"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": false
 }
