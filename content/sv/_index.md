@@ -1,3 +1,0 @@
----
-title: "hicke.se"
----
