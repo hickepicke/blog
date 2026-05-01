@@ -8,6 +8,6 @@ tags:
 
 Välkommen till min blogg. Här skriver jag om saker som intresserar mig...
 
-* Nu testar jag att sätt aupp CF worker page för detta.
+- Nu testar jag att sätt aupp CF worker page för detta.
   
-* Nytt test
+- Nytt testar
