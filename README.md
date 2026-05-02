@@ -22,6 +22,10 @@ A personal blog running on Hugo + GitHub Actions + Cloudflare Workers. Zero serv
 
 ---
 
+# add the file blog.png here:
+
+
+
 ## Writing a post
 
 Create a file in `content/posts/`:
