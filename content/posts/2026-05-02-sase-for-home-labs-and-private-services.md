@@ -2,7 +2,7 @@
 title: "SASE for Home Labs and Private Services: Zero Trust Without the Enterprise Price Tag"
 description: "How to apply SASE principles — Zero Trust, secure tunnels, identity-aware access — to your home lab or personal cloud services using Cloudflare and Tailscale free tiers."
 date: 2026-05-02
-draft: true
+draft: false
 tags: ["sase", "zero-trust", "cloudflare", "tailscale", "homelab", "security", "self-hosting"]
 categories: ["guides"]
 ---
