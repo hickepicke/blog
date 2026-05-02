@@ -130,8 +130,7 @@ Both tools enforce Zero Trust without calling it that:
 Worth knowing before you depend on this:
 
 - Cloudflare Gateway's HTTP inspection and data loss prevention require a paid plan
-- Tailscale's free tier is limited to 3 users — fine for personal use, awkward for a shared lab
-- Cloudflare Access device posture checks (is this device managed? is it patched?) require the Teams plan
+- Tailscale's free tier is limited to 6 users — fine for personal use, awkward for a shared lab
 - Neither replaces a SIEM for compliance
 
 For a personal home lab, none of these matter.
