@@ -7,7 +7,7 @@ tags: ["sase", "zero-trust", "cloudflare", "tailscale", "homelab", "security", "
 categories: ["guides"]
 ---
 
-SASE — Secure Access Service Edge — sounds like a word invented by a Gartner analyst to sell enterprise contracts. And it was. But the underlying ideas are genuinely useful, and the tools to implement them are now available for free.
+SASE — Secure Access Service Edge — pronounced as "sassy" (/ˈsæsi/), sounds like a word invented by a Gartner analyst to sell enterprise contracts. And it was. But the underlying ideas are genuinely useful, and the tools to implement them are now available for free.
 
 If you run a home lab, self-host services, or have workloads scattered across Cloudflare Workers, Railway, Fly.io, or similar platforms, this post is for you.
 
