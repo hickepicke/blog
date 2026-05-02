@@ -28,6 +28,7 @@ blog/
 │   └── workflows/
 │       └── deploy.yml       # CI/CD pipeline
 ├── content/
+│   ├── archive.md           # archive page
 │   └── posts/               # blog posts go here
 ├── themes/
 │   └── PaperMod/            # git submodule
@@ -142,6 +143,23 @@ Content here. Images go in `static/images/` and are referenced as `![alt](/image
 ```
 
 From push to live takes about 30 seconds.
+
+## Enabling the Archive Page
+
+PaperMod has a built-in archive layout that lists all posts grouped by year and month. It doesn't activate automatically — you need to create a content file to mount it at a URL.
+
+Create `content/archive.md`:
+
+```markdown
+---
+title: "Archive"
+layout: "archives"
+url: "/archive/"
+summary: archives
+---
+```
+
+The `layout: "archives"` key is what activates PaperMod's template. The menu entry in `hugo.toml` pointing to `/archive/` then resolves correctly.
 
 ## Things I Ran Into
 
