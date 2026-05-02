@@ -2,7 +2,7 @@
 title: "Anthropic Mythos: What It Is, What It Threatens, and What You Can Do"
 description: "Anthropic's Mythos is the most capable AI model built to date — and the most dangerous. It finds zero-day vulnerabilities autonomously, builds working exploits overnight, and has already caught the attention of the NSA and the White House."
 date: 2026-05-02
-draft: true
+draft: false
 tags: ["ai", "security", "anthropic", "mythos", "zero-trust", "cybersecurity"]
 categories: ["security"]
 ---
