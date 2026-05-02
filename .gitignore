@@ -3,4 +3,5 @@ public/
 resources/_gen/
 .claude/settings.local.json
 .env
+.vscode/
 
