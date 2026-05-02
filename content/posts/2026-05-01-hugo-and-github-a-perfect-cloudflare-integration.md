@@ -12,7 +12,7 @@ I wanted a simple blog: write a Markdown file, push to GitHub, and have it live 
 ## The Stack
 
 - **[Hugo](https://gohugo.io/)** — static site generator. Builds the entire site in under 100ms.
-- **[PaperMod](https://github.com/adityatelange/hugo-PaperMod)** — clean, fast Hugo theme with dark mode, tags, and RSS out of the box.
+- **[PaperMod](https://github.com/adityatelange/hugo-PaperMod)** — clean, fast Hugo theme with dark mode, tags, and [RSS](https://hicke.se/index.xml) out of the box.
 - **GitHub** — source of truth. Every push triggers a deploy.
 - **GitHub Actions** — builds the site and deploys it on every push to `master`.
 - **Cloudflare Workers + Assets** — hosts and serves the static files globally. Free tier is more than enough for a personal blog.
