@@ -1,5 +1,5 @@
 ---
-title: "Understanding Anthropic Mythos: Threats and Solutions"
+title: "Understanding Anthropic Mythos: Threats and solutions"
 description: "Explore Anthropic Mythos: its groundbreaking capabilities, cybersecurity threats, and essential actions for defenders in the evolving AI landscape."
 date: 2026-05-02T07:26:02.000Z
 draft: false
@@ -18,7 +18,7 @@ Anthropic announced Claude Mythos Preview on April 7, 2026. They described it as
 
 Here's what the model actually does, why governments are paying attention, and what defenders can do now.
 
-## What Mythos Is
+## What Mythos is
 
 Mythos is a general-purpose language model — 1M token context window, 128K max output, knowledge cutoff December 2025. On most benchmarks it performs as you'd expect from a frontier model at this scale.
 
@@ -36,7 +36,7 @@ The numbers from the UK AI Security Institute's assessment:
 
 That last number is the one that matters. Mythos isn't finding known vulnerabilities faster. It's finding vulnerabilities nobody knew existed, faster than defenders can patch them.
 
-## What It Threatens
+## What it threatens
 
 The security model most organisations operate on assumes that finding a zero-day takes time — months of manual research, a well-funded team, deep domain expertise. That time gap is what gives defenders room to patch, to respond, to catch up.
 
@@ -48,9 +48,9 @@ The Pentagon called it "a separate national security moment." German banks and t
 
 When the NSA is your security researcher, the threat model has changed.
 
-## What Anthropic Is Doing About It
+## What Anthropic is doing about it
 
-Anthropic's response is called **Project Glasswing** — a $100 million initiative to use Mythos defensively before adversaries can exploit the same capabilities offensively.
+Anthropic's response is called [**Project Glasswing**](https://www.anthropic.com/project/glasswing) — a $100 million initiative to use Mythos defensively before adversaries can exploit the same capabilities offensively.
 
 The strategy: give controlled access to a small coalition of major infrastructure owners and let them use Mythos to find and patch vulnerabilities in their own systems before anyone else finds them.
 
@@ -60,7 +60,7 @@ Anthropic commits to publishing findings and best practices within 90 days. No p
 
 It's offense used as defense — find the holes in your own walls before someone else does.
 
-## What You Can Do
+## What you Can do
 
 Project Glasswing matters if you're one of the six companies in it. For everyone else, here's what's actually actionable:
 
@@ -74,7 +74,7 @@ Project Glasswing matters if you're one of the six companies in it. For everyone
 
 **Assume unpatched vulnerabilities exist in your stack.** They do. The question is whether you find them first.
 
-## The Honest Take
+## The honest take
 
 Some security researchers think the concern is overstated. Peter Swire, former White House cyber coordinator, said "a large fraction of cybersecurity professors believe this is pretty much what was expected, and pretty much more of the same."
 
